@@ -180,7 +180,7 @@
       <td style="width: 50%;">
         <a href="https://github.com/Mayankax/Cinephiles" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/Mayankax/Cinephiles/blob/main/CinePhile.png" alt="Passenger Recovery Optimization" style="width: 100%; height: auto;">
-          <p align="center"><b>Examination Monitoring System</b></p>
+          <p align="center"><b>Movie Recommender System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
