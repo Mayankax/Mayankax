@@ -184,9 +184,9 @@
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mukulgoel457/project_haxplore" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/dbms2.png" alt="DBMS Using C" style="width: 100%; height: auto;">
-          <p align="center"><b>Temple Ticketing System</b></p>
+        <a href="https://github.com/Mayankax/Stock-Price-Prediction" style="display: block; text-decoration: none; color: inherit;">
+          <img src="https://tradeciety.com/hubfs/Backtesting-Trading.jpg" alt="DBMS Using C" style="width: 100%; height: auto;">
+          <p align="center"><b>Stock Price Pridiction</b></p>
         </a>
       </td>
     </tr>
