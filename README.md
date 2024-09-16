@@ -185,7 +185,7 @@
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mayankax/Stock-Price-Prediction" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://tradeciety.com/hubfs/Backtesting-Trading.jpg" alt="DBMS Using C" style="width: 100%; height: auto;">
+          <img src="https://plus.unsplash.com/premium_photo-1682310075673-b408eb1ca6fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="DBMS Using C" style="width: 100%; height: auto;">
           <p align="center"><b>Stock Price Pridiction</b></p>
         </a>
       </td>
