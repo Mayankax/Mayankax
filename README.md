@@ -195,9 +195,9 @@
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mukulgoel457/PairsTrading" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mayankax/Social-Media-App" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
-          <p align="center"><b>Pairs Trading</b></p>
+          <p align="center"><b>LAMASOCIAL</b></p>
         </a>
       </td>
     </tr>
