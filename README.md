@@ -196,7 +196,7 @@
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mayankax/Social-Media-App" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/darkweb.png" alt="Dark Web Scraper" style="width: 100%; height: auto;">
+          <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-b344-61f7-9602-1677cd7c5f54/raw?se=2025-04-13T13%3A51%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=f613292c-b21e-5129-be4c-c37259aba27c&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-13T03%3A52%3A24Z&ske=2025-04-14T03%3A52%3A24Z&sks=b&skv=2024-08-04&sig=J6UodNYQte2EKDWinsRpYVnHNt7wNhi4OI7gx1%2BbwxA%3D" alt="Dark Web Scraper" style="width: 100%; height: auto;">
           <p align="center"><b>LAMASOCIAL</b></p>
         </a>
       </td>
