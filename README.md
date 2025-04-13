@@ -219,15 +219,15 @@
 </details>
   
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<!-- <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
 <p align="center">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Mayank Bansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mukulgoel457&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulgoel457&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mukulgoel457" height="230px"/>
-<br/> -->
+<br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -249,4 +249,4 @@
 
 [![@jazzsterq's Holopin board](https://holopin.io/api/user/board?user=jazzsterq)](https://www.holopin.io/@jazzsterq#)
 	
-</details>
+</details> -->
