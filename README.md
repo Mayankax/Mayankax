@@ -189,9 +189,9 @@
     </tr>
     <tr>
       <td style="width: 50%;">
-        <a href="https://github.com/Mukulgoel457/Financial-Analysis-using-Signal-Proceessing-Tools" style="display: block; text-decoration: none; color: inherit;">
+        <a href="https://github.com/Mayankax/GenieAI" style="display: block; text-decoration: none; color: inherit;">
           <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="LLM powered Career Advisor and Interviewer" style="width: 100%; height: auto;">
-          <p align="center"><b>Financial Analysis using Signal Proceessing Tools</b></p>
+          <p align="center"><b>GenieAI</b></p>
         </a>
       </td>
       <td style="width: 50%;">
