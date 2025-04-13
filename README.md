@@ -32,7 +32,7 @@
 	&emsp;
 	<a href="https://leetcode.com/u/Mayankax/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
 	&emsp;
-	<a href="https://www.geeksforgeeks.org/user/user_r8cy79eojfc/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
+	<a href="https://www.geeksforgeeks.org/user/mayankba9fux/"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="GFG"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
