@@ -214,7 +214,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazzsterq&theme=tokyonight_duo" alt="jazzsterq" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mayankax" alt="jazzsterq" /></p>
 
 </details>
   
