@@ -196,7 +196,7 @@
       </td>
       <td style="width: 50%;">
         <a href="https://github.com/Mayankax/Social-Media-App" style="display: block; text-decoration: none; color: inherit;">
-          <img src="[https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-b344-61f7-9602-1677cd7c5f54/raw?se=2025-04-13T13%3A51%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=f613292c-b21e-5129-be4c-c37259aba27c&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-13T03%3A52%3A24Z&ske=2025-04-14T03%3A52%3A24Z&sks=b&skv=2024-08-04&sig=J6UodNYQte2EKDWinsRpYVnHNt7wNhi4OI7gx1%2BbwxA%3D](https://sdmntprcentralus.oaiusercontent.com/files/00000000-8e1c-61f5-96a8-32f7bf05ad7e/raw?se=2025-07-11T07%3A13%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=d6d48e4a-1cba-59f2-85d6-c1a28bf36945&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T19%3A27%3A10Z&ske=2025-07-11T19%3A27%3A10Z&sks=b&skv=2024-08-04&sig=cNSkZgsIYe5P9z9ZeOcTCx0bonnhCR7Z2hso7yPlRBQ%3D)" alt="LamaSocial" style="width: 100%; height: auto;">
+          <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-b344-61f7-9602-1677cd7c5f54/raw?se=2025-04-13T13%3A51%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=f613292c-b21e-5129-be4c-c37259aba27c&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-13T03%3A52%3A24Z&ske=2025-04-14T03%3A52%3A24Z&sks=b&skv=2024-08-04&sig=J6UodNYQte2EKDWinsRpYVnHNt7wNhi4OI7gx1%2BbwxA%3D" alt="LamaSocial" style="width: 100%; height: auto;">
           <p align="center"><b>LAMASOCIAL</b></p>
         </a>
       </td>
