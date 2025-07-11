@@ -205,37 +205,38 @@
 </div> -->
 
 <div style="padding-left: 10%; padding-right: 10%; text-align: center;">
-  <table style="width: 80%; margin: 0 auto;">
-    <tr>
+  <table style="width: 80%; margin: 0 auto; border-collapse: collapse;">
+    <tr style="height: 300px;">
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/Cinephiles" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/Mayankax/Cinephiles/blob/main/CinePhile.png" alt="Movie Recommender System" style="width: 100%; height: 200px; object-fit: cover;">
+        <a href="https://github.com/Mayankax/Cinephiles" style="display: block; text-decoration: none; color: inherit; height: 100%;">
+          <img src="https://github.com/Mayankax/Cinephiles/blob/main/CinePhile.png" alt="Movie Recommender System" style="width: 100%; height: 100%; object-fit: cover;">
           <p align="center"><b>Movie Recommender System</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/Stock-Price-Prediction" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://plus.unsplash.com/premium_photo-1682310075673-b408eb1ca6fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Stock Price Prediction" style="width: 100%; height: 200px; object-fit: cover;">
+        <a href="https://github.com/Mayankax/Stock-Price-Prediction" style="display: block; text-decoration: none; color: inherit; height: 100%;">
+          <img src="https://plus.unsplash.com/premium_photo-1682310075673-b408eb1ca6fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJhZGluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Stock Price Prediction" style="width: 100%; height: 100%; object-fit: cover;">
           <p align="center"><b>Stock Price Prediction</b></p>
         </a>
       </td>
     </tr>
-    <tr>
+    <tr style="height: 300px;">
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/GenieAI" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="GenieAI" style="width: 100%; height: 200px; object-fit: cover;">
+        <a href="https://github.com/Mayankax/GenieAI" style="display: block; text-decoration: none; color: inherit; height: 100%;">
+          <img src="https://github.com/jazzsterq/jazzsterq/blob/main/assets/career.png" alt="GenieAI" style="width: 100%; height: 100%; object-fit: cover;">
           <p align="center"><b>GenieAI</b></p>
         </a>
       </td>
       <td style="width: 50%;">
-        <a href="https://github.com/Mayankax/Social-Media-App" style="display: block; text-decoration: none; color: inherit;">
-          <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-8e1c-61f5-96a8-32f7bf05ad7e/raw?se=2025-07-11T07%3A13%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=d6d48e4a-1cba-59f2-85d6-c1a28bf36945&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T19%3A27%3A10Z&ske=2025-07-11T19%3A27%3A10Z&sks=b&skv=2024-08-04&sig=cNSkZgsIYe5P9z9ZeOcTCx0bonnhCR7Z2hso7yPlRBQ%3D" alt="LamaSocial" style="width: 100%; height: 200px; object-fit: cover;">
+        <a href="https://github.com/Mayankax/Social-Media-App" style="display: block; text-decoration: none; color: inherit; height: 100%;">
+          <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-8e1c-61f5-96a8-32f7bf05ad7e/raw?se=2025-07-11T07%3A13%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=d6d48e4a-1cba-59f2-85d6-c1a28bf36945&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-10T19%3A27%3A10Z&ske=2025-07-11T19%3A27%3A10Z&sks=b&skv=2024-08-04&sig=cNSkZgsIYe5P9z9ZeOcTCx0bonnhCR7Z2hso7yPlRBQ%3D" alt="LamaSocial" style="width: 100%; height: 100%; object-fit: cover;">
           <p align="center"><b>LAMASOCIAL</b></p>
         </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
